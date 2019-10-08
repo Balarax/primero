@@ -1,5 +1,2 @@
 nannit
-
-primer commit
-
-segundo commit
+modificacion desde el repositorio
